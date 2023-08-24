@@ -23,3 +23,4 @@ Recopilación de recetas de cocina para compartir.
 * `'` -> Minutos.
 * `''` -> Segundos.
 * `2h @ 180ºC` -> 2 horas a 180 grados.
+* Cuando pongo que **gratino** ajo o jengibre significa rallar, porque en inglés es *grated* y mi cerebro no dió para más a la hora de traducir.
