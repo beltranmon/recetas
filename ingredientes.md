@@ -25,7 +25,7 @@
  - [Estofado en salsa de vino](./Carnes%20rojas/Estofado%20en%20salsa%20de%20vino.jpg)
  - [Fideua](./Pastas/Fideua.jpg)
  - [Huevos al plato](./Verduras/Huevos%20al%20plato.jpg)
- - [Huevos Rellenos](./Acompañantes/Huevos%20rellenos.jpg)
+ - [Huevos rellenos](./Acompañantes/Huevos%20rellenos.jpg)
  - [Hummus](./Acompañantes/Hummus.jpg)
  - [Lasagna](./Pastas/Lasagna.jpg)
  - [Lentejas](./Sopas,%20pures%20y%20cremas/Lentejas.jpg)
@@ -43,7 +43,7 @@
  - [Salteado de ternera](./Carnes%20rojas/Salteado%20de%20ternera.jpg)
  - [Sesame chicken](./Aves/Sesame%20chicken.jpg)
  - [Sopa de alubias](./Sopas,%20pures%20y%20cremas/Sopa%20de%20alubias.jpg)
- - [VIchyssoise](./Sopas,%20pures%20y%20cremas/Vichyssoise.jpg)
+ - [Vichyssoise](./Sopas,%20pures%20y%20cremas/Vichyssoise.jpg)
 
 ### Almendras
 - [Pollo con almendras](./Aves/Pollo%20con%20almendras.jpg)
@@ -66,7 +66,7 @@
  - [Poke](./Ensaladas/Poke.jpg)
 
 ### Atún en aceite
-- [Huevos Rellenos](./Acompañantes/Huevos%20rellenos.jpg)
+- [Huevos rellenos](./Acompañantes/Huevos%20rellenos.jpg)
 
 ### Azafrán
 - [Arroz con cosas](./Arroces/Arroz%20con%20cosas.jpg)
@@ -183,7 +183,7 @@
  - [Puré de coliflor](./Sopas,%20pures%20y%20cremas/Pure%20de%20coliflor.jpg)
  - [Sopa de alubias](./Sopas,%20pures%20y%20cremas/Sopa%20de%20alubias.jpg)
  - [Solomillo a la mostaza](./Carnes%20rojas/Solomillo%20a%20la%20mostaza.jpg)
- - [VIchyssoise](./Sopas,%20pures%20y%20cremas/Vichyssoise.jpg)
+ - [Vichyssoise](./Sopas,%20pures%20y%20cremas/Vichyssoise.jpg)
 
 #### En polvo
  - [Pollo al limón](./Aves/Pollo%20al%20limon.jpg)
@@ -266,7 +266,7 @@
 - [Brownies](./Postres/Brownies.jpg)
 - [Carrot cake](./Postres/Carrot%20cake.jpg)
 - [Cookies brownie](./Postres/Cookies%20de%20brownie.jpg)
-- [Huevos Rellenos](./Acompañantes/Huevos%20rellenos.jpg)
+- [Huevos rellenos](./Acompañantes/Huevos%20rellenos.jpg)
 - [Huevos al plato](./Verduras/Huevos%20al%20plato.jpg)
 - [Pizza de coliflor](./Masas%20y%20panes/Pizza%20de%20coliflor.jpg)
 - [San jacobos de calabacín](./Verduras/San%20jacobos%20de%20calabacin.jpg)
@@ -274,7 +274,7 @@
 #### Clara
 - [Sesame chicken](./Aves/Sesame%20chicken.jpg)
 - [Tarta de almendra](./Postres/Tarta%20de%20almendra.jpg)
-### Yema
+#### Yema
 - [Natillas](./Postres/Natillas.jpg)
 
 ## J
@@ -303,7 +303,7 @@
 ## L
 ### Leche de coco
 - [Pollo al curry](./Aves/Pollo%20al%20curry.jpg)
-- [VIchyssoise](./Sopas,%20pures%20y%20cremas/Vichyssoise.jpg)*
+- [Vichyssoise](./Sopas,%20pures%20y%20cremas/Vichyssoise.jpg)*
 
 ### Lentejas
 - [Lentejas](./Sopas,%20pures%20y%20cremas/Lentejas.jpg)
@@ -335,7 +335,7 @@
 - [Pollo KFC](./Aves/Pollo%20kfc.jpg)
 - [Tarta de almendra](./Postres/Tarta%20de%20almendra.jpg)
 
-### Longanizzs
+### Longanizas
 - [Cheese Kebab](./Carnes%20rojas/Cheese%20kebab.jpg)
 
 ## M
@@ -362,7 +362,7 @@
 - [Beef strogonoff](./Carnes%20rojas/Beef%20strogonoff.jpg)
 - [Costilla marinada al horno](./Carnes%20rojas/Costilla%20marinada%20al%20horno.jpg)
 - [Ensalada de patata](./Ensaladas/Ensalada%20de%20patata.jpg)
-- [Huevos Rellenos](./Acompañantes/Huevos%20rellenos.jpg)
+- [Huevos rellenos](./Acompañantes/Huevos%20rellenos.jpg)
 - [Pechugas con salsa strogonoff](./Aves/Pechugas%20con%20salsa%20strogonoff.jpg)
 - [Pescado a la naranja](./Pescados/Pescado%20a%20la%20naranja.jpg)
 - [Pescado al horno](./Pescados/Pescado%20al%20horno.jpg)
@@ -384,7 +384,7 @@
 - [Pasta con pollo](./Pastas/Pasta%20con%20pollo.jpg)
 - [Pasta con queso al horno](./Pastas/Pasta%20con%20queso%20al%20horno.jpg)
 - [Pechugas con salsa strogonoff](./Aves/Pechugas%20con%20salsa%20strogonoff.jpg)
-- [VIchyssoise](./Sopas,%20pures%20y%20cremas/Vichyssoise.jpg)*
+- [Vichyssoise](./Sopas,%20pures%20y%20cremas/Vichyssoise.jpg)*
 
 ### Naranja
 - [Arroz con leche](./Postres/Arroz%20con%20leche.jpg)
@@ -408,7 +408,7 @@
  - [Lentejas](./Sopas,%20pures%20y%20cremas/Lentejas.jpg)
  - [Patatas fritas con salsa de queso](./Acompañantes/Patatas%20fritas%20con%20salsa%20de%20queso.jpg)
  - [Pescado al horno](./Pescados/Pescado%20al%20horno.jpg)
- - [VIchyssoise](./Sopas,%20pures%20y%20cremas/Vichyssoise.jpg)
+ - [Vichyssoise](./Sopas,%20pures%20y%20cremas/Vichyssoise.jpg)
 
 ### Pepino
 - [Cheese Kebab](./Carnes%20rojas/Cheese%20kebab.jpg)
@@ -455,7 +455,7 @@
 
 ### Puerro
 - [Arroz caldoso](./Arroces/Arroz%20caldoso.jpg)
-- [VIchyssoise](./Sopas,%20pures%20y%20cremas/Vichyssoise.jpg)
+- [Vichyssoise](./Sopas,%20pures%20y%20cremas/Vichyssoise.jpg)
 
 ## Q
 ### Queso
@@ -504,7 +504,7 @@
 - [Salteado de ternera](./Carnes%20rojas/Salteado%20de%20ternera.jpg)
 - [Sesame chicken](./Aves/Sesame%20chicken.jpg)
 
-## Salsa sriracha
+### Salsa sriracha
 - [Salteado de ternera](./Carnes%20rojas/Salteado%20de%20ternera.jpg)
 
 ### Semillas de sésamo
