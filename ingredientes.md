@@ -28,6 +28,7 @@
  - [Hummus](./Acompañantes/Hummus.jpg)
  - [Lentejas](./Sopas,%20pures%20y%20cremas/Lentejas.jpg)
  - [Pechugas con salsa strogonoff](./Aves/Pechugas%20con%20salsa%20strogonoff.jpg)
+ - [Pizza de coliflor](./Masas%20y%20panes/Pizza%20de%20coliflor.jpg)
  - [Pollo al ajillo](./Aves/Pollo%20al%20ajillo.jpg)
  - [Pollo al limón](./Aves/Pollo%20al%20limon.jpg)
  - [Pollo con ajo y miel](./Aves/Pollo%20con%20ajo%20y%20miel.jpg)
@@ -71,6 +72,7 @@
 - [Carrot cake](./Postres/Carrot%20cake.jpg)
 - [Cookies brownie](./Postres/Cookies%20de%20brownie.jpg)
 - [Flan de queso](./Postres/Flan%20de%20queso.jpg)
+- [Masa de pizza](./Masas%20y%20panes/Masa%20de%20pizza.jpg)
 - [Natillas](./Postres/Natillas.jpg)
 - [Tarta de almendra](./Postres/Tarta%20de%20almendra.jpg)
 - [Tiramisú](./Postres/Tiramisu.jpg)
@@ -187,6 +189,7 @@
 
 ### Coliflor
 - [Coliflor y brócoli gratinado](./Verduras/Coliflor%20y%20brocoli%20gratinado.jpg)
+- [Pizza de coliflor](./Masas%20y%20panes/Pizza%20de%20coliflor.jpg)
 - [Puré de coliflor](./Sopas,%20pures%20y%20cremas/Pure%20de%20coliflor.jpg)
 
 ### Conejo
@@ -232,6 +235,7 @@
 - [Cookies brownie](./Postres/Cookies%20de%20brownie.jpg)
 - [Huevos Rellenos](./Acompañantes/Huevos%20rellenos.jpg)
 - [Huevos al plato](./Verduras/Huevos%20al%20plato.jpg)
+- [Pizza de coliflor](./Masas%20y%20panes/Pizza%20de%20coliflor.jpg)
 - [San jacobos de calabacín](./Verduras/San%20jacobos%20de%20calabacin.jpg)
 - [Tiramisú](./Postres/Tiramisu.jpg)
 #### Clara
@@ -270,6 +274,10 @@
 
 ### Lentejas
 - [Lentejas](./Sopas,%20pures%20y%20cremas/Lentejas.jpg)
+
+### Levadura
+- [Focaccia](./Masas%20y%20panes/Focaccia.jpg)
+- [Masa de pizza](./Masas%20y%20panes/Masa%20de%20pizza.jpg)
 
 ### Levadura química
 - [Bizcocho de chocolate](./Postres/Bizcocho%20de%20chocolate.jpg)
@@ -408,9 +416,16 @@
 - [San jacobos de calabacín](./Verduras/San%20jacobos%20de%20calabacin.jpg)
 #### Mascarpone
 - [Tiramisú](./Postres/Tiramisu.jpg)
+#### Mozzarella
+- [Focaccia di recco](./Masas%20y%20panes/Focaccia%20di%20recco.jpg)
 #### Parmesano
 - [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg)
 - [Flan de queso](./Postres/Flan%20de%20queso.jpg)
+
+## R
+### Romero seco
+- [Focaccia di recco](./Masas%20y%20panes/Focaccia%20di%20recco.jpg)
+- [Focaccia](./Masas%20y%20panes/Focaccia.jpg)
 
 ## S
 ### Salsa inglesa
@@ -461,6 +476,7 @@
 - [Arroz caldoso](./Arroces/Arroz%20caldoso.jpg)
 - [Arroz con cosas](./Arroces/Arroz%20con%20cosas.jpg)
 - [Estofado en salsa de vino](./Carnes%20rojas/Estofado%20en%20salsa%20de%20vino.jpg)
+- [Pizza de coliflor](./Masas%20y%20panes/Pizza%20de%20coliflor.jpg)
 
 ## V
 ### Vainilla
