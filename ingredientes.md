@@ -23,10 +23,16 @@
  - [Conejo marinado](./Carnes%20rojas/Conejo%20marinado.jpg)
  - [Costillas con salsa de cebolla](./Carnes%20rojas/Costillas%20con%20salsa%20de%20cebolla.jpg)
  - [Estofado en salsa de vino](./Carnes%20rojas/Estofado%20en%20salsa%20de%20vino.jpg)
+ - [Fideua](./Pastas/Fideua.jpg)
  - [Huevos al plato](./Verduras/Huevos%20al%20plato.jpg)
  - [Huevos Rellenos](./Acompañantes/Huevos%20rellenos.jpg)
  - [Hummus](./Acompañantes/Hummus.jpg)
+ - [Lasagna](./Pastas/Lasagna.jpg)
  - [Lentejas](./Sopas,%20pures%20y%20cremas/Lentejas.jpg)
+ - [Pasta al limón](./Pastas/Pasta%20al%20limon.jpg)
+ - [Pasta con pollo](./Pastas/Pasta%20con%20pollo.jpg)
+ - [Pasta con queso al horno](./Pastas/Pasta%20con%20queso%20al%20horno.jpg)
+ - [Pasta con verduras](./Pastas/Pasta%20con%20verduras.jpg)
  - [Pechugas con salsa strogonoff](./Aves/Pechugas%20con%20salsa%20strogonoff.jpg)
  - [Pizza de coliflor](./Masas%20y%20panes/Pizza%20de%20coliflor.jpg)
  - [Pollo al ajillo](./Aves/Pollo%20al%20ajillo.jpg)
@@ -51,6 +57,7 @@
 
 ### Apio
 - [Ensalada de patata](./Ensaladas/Ensalada%20de%20patata.jpg)
+- [Lasagna](./Pastas/Lasagna.jpg)
 
 ### Arroz
  - [Arroz caldoso](./Arroces/Arroz%20caldoso.jpg)
@@ -63,6 +70,7 @@
 
 ### Azafrán
 - [Arroz con cosas](./Arroces/Arroz%20con%20cosas.jpg)
+- [Fideua](./Pastas/Fideua.jpg)
 
 ### Azúcar
 - [Arroz con leche](./Postres/Arroz%20con%20leche.jpg)
@@ -115,6 +123,9 @@
 - [Huevos al plato](./Verduras/Huevos%20al%20plato.jpg)
 - [San jacobos de calabacín](./Verduras/San%20jacobos%20de%20calabacin.jpg)
 
+### Calamares
+- [Fideua](./Pastas/Fideua.jpg)
+
 ### Caldo
 - [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg)
 - [Arroz caldoso](./Arroces/Arroz%20caldoso.jpg)
@@ -122,6 +133,11 @@
 - [Beef strogonoff](./Carnes%20rojas/Beef%20strogonoff.jpg)
 - [Costillas con salsa de cebolla](./Carnes%20rojas/Costillas%20con%20salsa%20de%20cebolla.jpg)
 - [Estofado en salsa de vino](./Carnes%20rojas/Estofado%20en%20salsa%20de%20vino.jpg)
+- [Fideua](./Pastas/Fideua.jpg)
+- [Lasagna](./Pastas/Lasagna.jpg)
+- [Pasta con albóndigas suecas](./Pastas/Pasta%20con%20albondigas%20suecas.jpg)
+- [Pasta con pollo](./Pastas/Pasta%20con%20pollo.jpg)
+- [Pasta con queso al horno](./Pastas/Pasta%20con%20queso%20al%20horno.jpg)
 - [Pollo al ajillo](./Aves/Pollo%20al%20ajillo.jpg)
 - [Pollo al limón](./Aves/Pollo%20al%20limon.jpg)
 - [Pollo con almendras](./Aves/Pollo%20con%20almendras.jpg)
@@ -139,6 +155,7 @@
 
 ### Carne picada
 - [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg)
+- [Lasagna](./Pastas/Lasagna.jpg)
 
 ### Cebolla
 #### Any excepto morada
@@ -151,9 +168,13 @@
  - [Ensalada de patata](./Ensaladas/Ensalada%20de%20patata.jpg)
  - [Estofado en salsa de vino](./Carnes%20rojas/Estofado%20en%20salsa%20de%20vino.jpg)
  - [Fajitas](./Aves/Fajitas.jpg)
+ - [Fideua](./Pastas/Fideua.jpg)
  - [Guacamole](./Acompañantes/Guacamole.jpg)
  - [Huevos al plato](./Verduras/Huevos%20al%20plato.jpg)
+ - [Lasagna](./Pastas/Lasagna.jpg)
  - [Lentejas](./Sopas,%20pures%20y%20cremas/Lentejas.jpg)
+ - [Pasta con pollo](./Pastas/Pasta%20con%20pollo.jpg)
+ - [Pasta con verduras](./Pastas/Pasta%20con%20verduras.jpg)
  - [Pollo al curry](./Aves/Pollo%20al%20curry.jpg)
  - [Pollo con almendras](./Aves/Pollo%20con%20almendras.jpg)
  - [Poke](./Ensaladas/Poke.jpg)
@@ -215,9 +236,15 @@
 ### Frutos secos
 - [Carrot cake](./Postres/Carrot%20cake.jpg)
 
+### Fideos
+- [Fideua](./Pastas/Fideua.jpg)
+
 ## G
 ### Galletas Biscott
 - [Flan de queso](./Postres/Flan%20de%20queso.jpg)
+
+### Gambas
+- [Fideua](./Pastas/Fideua.jpg)
 
 ### Garbanzos
  - [Hummus](./Acompañantes/Hummus.jpg)
@@ -294,6 +321,7 @@
 - [Cheese Kebab](./Carnes%20rojas/Cheese%20kebab.jpg)
 - [Costilla marinada al horno](./Carnes%20rojas/Costilla%20marinada%20al%20horno.jpg)
 - [Hummus](./Acompañantes/Hummus.jpg)
+- [Pasta al limón](./Pastas/Pasta%20al%20limon.jpg)
 - [Pollo al ajillo](./Aves/Pollo%20al%20ajillo.jpg)
 - [Pollo al limón](./Aves/Pollo%20al%20limon.jpg)
 - [Pollo KFC](./Aves/Pollo%20kfc.jpg)
@@ -341,6 +369,9 @@
 - [Beef strogonoff](./Carnes%20rojas/Beef%20strogonoff.jpg)
 - [Brazo de gitano](./Postres/Brazo%20de%20gitano.jpg)
 - [Flan de queso](./Postres/Flan%20de%20queso.jpg)
+- [Pasta al limón](./Pastas/Pasta%20al%20limon.jpg)
+- [Pasta con pollo](./Pastas/Pasta%20con%20pollo.jpg)
+- [Pasta con queso al horno](./Pastas/Pasta%20con%20queso%20al%20horno.jpg)
 - [Pechugas con salsa strogonoff](./Aves/Pechugas%20con%20salsa%20strogonoff.jpg)
 - [VIchyssoise](./Sopas,%20pures%20y%20cremas/Vichyssoise.jpg)*
 
@@ -371,6 +402,7 @@
 
 ### Perejil
 - [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg)
+- [Pasta con queso al horno](./Pastas/Pasta%20con%20queso%20al%20horno.jpg)
 - [Pollo marinado](./Aves/Pollo%20marinado.jpg)
 
 ### Pescado rojo
@@ -380,6 +412,7 @@
 - [Arroz caldoso](./Arroces/Arroz%20caldoso.jpg)
 - [Fajitas](./Aves/Fajitas.jpg)
 - [Lentejas](./Sopas,%20pures%20y%20cremas/Lentejas.jpg)
+- [Pasta con verduras](./Pastas/Pasta%20con%20verduras.jpg)
 - [Salteado de ternera](./Carnes%20rojas/Salteado%20de%20ternera.jpg)
 - [Sopa de alubias](./Sopas,%20pures%20y%20cremas/Sopa%20de%20alubias.jpg)
 
@@ -394,6 +427,7 @@
 - [Alitas de pollo](./Aves/Alitas%20de%20pollo.jpg)
 #### Pechuga
 - [Fajitas](./Aves/Fajitas.jpg)
+- [Pasta con pollo](./Pastas/Pasta%20con%20pollo.jpg)
 - [Pechugas con salsa strogonoff](./Aves/Pechugas%20con%20salsa%20strogonoff.jpg)
  - [Pollo con ajo y miel](./Aves/Pollo%20con%20ajo%20y%20miel.jpg)
  - [Pollo con almendras](./Aves/Pollo%20con%20almendras.jpg)
@@ -420,7 +454,12 @@
 - [Focaccia di recco](./Masas%20y%20panes/Focaccia%20di%20recco.jpg)
 #### Parmesano
 - [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg)
-- [Flan de queso](./Postres/Flan%20de%20queso.jpg)
+- [Flan de queso](./Postres/Flan%20de%20queso.jpg) 
+- [Pasta con albóndigas suecas](./Pastas/Pasta%20con%20albondigas%20suecas.jpg)
+#### Rallado
+- [Lasagna](./Pastas/Lasagna.jpg)
+- [Pasta al limón](./Pastas/Pasta%20al%20limon.jpg)
+- [Pasta con queso al horno](./Pastas/Pasta%20con%20queso%20al%20horno.jpg)
 
 ## R
 ### Romero seco
@@ -428,8 +467,12 @@
 - [Focaccia](./Masas%20y%20panes/Focaccia.jpg)
 
 ## S
+### Salchichas
+- [Pasta con queso al horno](./Pastas/Pasta%20con%20queso%20al%20horno.jpg)
+
 ### Salsa inglesa
 - [Pechugas con salsa strogonoff](./Aves/Pechugas%20con%20salsa%20strogonoff.jpg)
+- [Pasta con albóndigas suecas](./Pastas/Pasta%20con%20albondigas%20suecas.jpg)
 
 ### Salsa de soja
 - [Pollo al limón](./Aves/Pollo%20al%20limon.jpg)
@@ -463,19 +506,26 @@
 - [Guacamole](./Acompañantes/Guacamole.jpg)
 - [Huevos al plato](./Verduras/Huevos%20al%20plato.jpg)
 - [Lentejas](./Sopas,%20pures%20y%20cremas/Lentejas.jpg)
+- [Pasta con verduras](./Pastas/Pasta%20con%20verduras.jpg)
 - [Pico de gallo](./Acompañantes/Pico%20de%20gallo.jpg)
 - [Sopa de alubias](./Sopas,%20pures%20y%20cremas/Sopa%20de%20alubias.jpg)
 
 ### Tomate (pasta de)
 - [Conejo marinado](./Carnes%20rojas/Conejo%20marinado.jpg)
 - [Costilla marinada al horno](./Carnes%20rojas/Costilla%20marinada%20al%20horno.jpg)
+- [Fideua](./Pastas/Fideua.jpg)
+- [Pasta con pollo](./Pastas/Pasta%20con%20pollo.jpg)
 - [Pollo al curry](./Aves/Pollo%20al%20curry.jpg)
+
+### Tomate (salsa)
+ - [Pasta con queso al horno](./Pastas/Pasta%20con%20queso%20al%20horno.jpg)
 
 ### Tomate triturado
 - [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg)
 - [Arroz caldoso](./Arroces/Arroz%20caldoso.jpg)
 - [Arroz con cosas](./Arroces/Arroz%20con%20cosas.jpg)
 - [Estofado en salsa de vino](./Carnes%20rojas/Estofado%20en%20salsa%20de%20vino.jpg)
+- [Lasagna](./Pastas/Lasagna.jpg)
 - [Pizza de coliflor](./Masas%20y%20panes/Pizza%20de%20coliflor.jpg)
 
 ## V
@@ -502,6 +552,8 @@
 - [Carrot cake](./Postres/Carrot%20cake.jpg)
 - [Costilla marinada al horno](./Carnes%20rojas/Costilla%20marinada%20al%20horno.jpg)
 - [Estofado en salsa de vino](./Carnes%20rojas/Estofado%20en%20salsa%20de%20vino.jpg)
+- [Lasagna](./Pastas/Lasagna.jpg)
 - [Lentejas](./Sopas,%20pures%20y%20cremas/Lentejas.jpg)
+- [Pasta con verduras](./Pastas/Pasta%20con%20verduras.jpg)
 - [Pollo al curry](./Aves/Pollo%20al%20curry.jpg)
 - [Pollo con almendras](./Aves/Pollo%20con%20almendras.jpg)
