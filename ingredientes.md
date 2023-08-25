@@ -46,6 +46,9 @@
 ### Anacardos
  - [Puré de coliflor](./Sopas,%20pures%20y%20cremas/Pure%20de%20coliflor.jpg)
 
+### Apio
+- [Ensalada de patata](./Ensaladas/Ensalada%20de%20patata.jpg)
+
 ### Arroz
  - [Arroz caldoso](./Arroces/Arroz%20caldoso.jpg)
  - [Arroz con cosas](./Arroces/Arroz%20con%20cosas.jpg)
@@ -109,9 +112,9 @@
 
 ### Caldo
 - [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg)
-- [Beef strogonoff](./Carnes%20rojas/Beef%20strogonoff.jpg)
 - [Arroz caldoso](./Arroces/Arroz%20caldoso.jpg)
 - [Arroz con cosas](./Arroces/Arroz%20con%20cosas.jpg)
+- [Beef strogonoff](./Carnes%20rojas/Beef%20strogonoff.jpg)
 - [Costillas con salsa de cebolla](./Carnes%20rojas/Costillas%20con%20salsa%20de%20cebolla.jpg)
 - [Estofado en salsa de vino](./Carnes%20rojas/Estofado%20en%20salsa%20de%20vino.jpg)
 - [Pollo al ajillo](./Aves/Pollo%20al%20ajillo.jpg)
@@ -137,10 +140,11 @@
  - [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg)
  - [Beef strogonoff](./Carnes%20rojas/Beef%20strogonoff.jpg)
  - [Cheese Kebab](./Carnes%20rojas/Cheese%20kebab.jpg)
- - [Estofado en salsa de vino](./Carnes%20rojas/Estofado%20en%20salsa%20de%20vino.jpg)
  - [Coliflor y brócoli gratinado](./Verduras/Coliflor%20y%20brocoli%20gratinado.jpg)
  - [Costillas con salsa de cebolla](./Carnes%20rojas/Costillas%20con%20salsa%20de%20cebolla.jpg)
  - [Criollo a la cerveza](./Carnes%20rojas/Criollo%20a%20la%20cerveza.jpg)
+ - [Ensalada de patata](./Ensaladas/Ensalada%20de%20patata.jpg)
+ - [Estofado en salsa de vino](./Carnes%20rojas/Estofado%20en%20salsa%20de%20vino.jpg)
  - [Fajitas](./Aves/Fajitas.jpg)
  - [Guacamole](./Acompañantes/Guacamole.jpg)
  - [Huevos al plato](./Verduras/Huevos%20al%20plato.jpg)
@@ -295,6 +299,9 @@
 - [Salteado de ternera](./Carnes%20rojas/Salteado%20de%20ternera.jpg)
 - [Sesame chicken](./Aves/Sesame%20chicken.jpg)
 
+### Mayonesa
+- [Ensalada de patata](./Ensaladas/Ensalada%20de%20patata.jpg)
+
 ### Miel
 - [Pollo al limón](./Aves/Pollo%20al%20limon.jpg)
 - [Pollo con ajo y miel](./Aves/Pollo%20con%20ajo%20y%20miel.jpg)
@@ -305,6 +312,7 @@
 - [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg)
 - [Beef strogonoff](./Carnes%20rojas/Beef%20strogonoff.jpg)
 - [Costilla marinada al horno](./Carnes%20rojas/Costilla%20marinada%20al%20horno.jpg)
+- [Ensalada de patata](./Ensaladas/Ensalada%20de%20patata.jpg)
 - [Huevos Rellenos](./Acompañantes/Huevos%20rellenos.jpg)
 - [Pechugas con salsa strogonoff](./Aves/Pechugas%20con%20salsa%20strogonoff.jpg)
 - [Pollo al ajillo](./Aves/Pollo%20al%20ajillo.jpg)
@@ -341,6 +349,7 @@
 
 ### Patata
  - [Costilla marinada al horno](./Carnes%20rojas/Costilla%20marinada%20al%20horno.jpg)
+ - [Ensalada de patata](./Ensaladas/Ensalada%20de%20patata.jpg)
  - [Lentejas](./Sopas,%20pures%20y%20cremas/Lentejas.jpg)
  - [Patatas fritas con salsa de queso](./Acompañantes/Patatas%20fritas%20con%20salsa%20de%20queso.jpg)
  - [VIchyssoise](./Sopas,%20pures%20y%20cremas/Vichyssoise.jpg)
@@ -452,6 +461,7 @@
 
 ### Vinagre
 - [Conejo marinado](./Carnes%20rojas/Conejo%20marinado.jpg)
+- [Ensalada de patata](./Ensaladas/Ensalada%20de%20patata.jpg)
 - [Pollo con ajo y miel](./Aves/Pollo%20con%20ajo%20y%20miel.jpg)
 - [Sesame chicken](./Aves/Sesame%20chicken.jpg)
 #### Balsámico
