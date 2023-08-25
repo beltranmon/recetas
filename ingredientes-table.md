@@ -58,7 +58,7 @@
 |:---|
 | [Sopa de alubias](./Sopas,%20pures%20y%20cremas/Sopa%20de%20alubias.jpg) |
 
-|  Anacardos |
+|| Anacardos |
 |:---|
 | [Puré de coliflor](./Sopas,%20pures%20y%20cremas/Pure%20de%20coliflor.jpg) |
 
@@ -67,23 +67,23 @@
 | [Ensalada de patata](./Ensaladas/Ensalada%20de%20patata.jpg) |
 | [Lasagna](./Pastas/Lasagna.jpg) |
 
-|  Arroz |
+|| Arroz |
 |:---|
 | [Arroz caldoso](./Arroces/Arroz%20caldoso.jpg) |
 | [Arroz con cosas](./Arroces/Arroz%20con%20cosas.jpg) |
 | [Arroz con leche](./Postres/Arroz%20con%20leche.jpg) |
 | [Poke](./Ensaladas/Poke.jpg) |
 
-|  Atún en aceite |
+|| Atún en aceite |
 |:---|
 | [Huevos rellenos](./Acompañantes/Huevos%20rellenos.jpg) |
 
-|  Azafrán |
+|| Azafrán |
 |:---|
 | [Arroz con cosas](./Arroces/Arroz%20con%20cosas.jpg) |
 | [Fideua](./Pastas/Fideua.jpg) |
 
-|  Azúcar |
+|| Azúcar |
 |:---|
 | [Arroz con leche](./Postres/Arroz%20con%20leche.jpg) |
 | [Bizcocho de chocolate](./Postres/Bizcocho%20de%20chocolate.jpg) |
@@ -183,8 +183,9 @@
 | [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg) |
 | [Lasagna](./Pastas/Lasagna.jpg) |
 
-  Cebolla
- # Any excepto morada
+| Cebolla |
+|:---|
+| **Any excepto morada**|
 | [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg) |
 | [Beef strogonoff](./Carnes%20rojas/Beef%20strogonoff.jpg) |
 | [Cheese Kebab](./Carnes%20rojas/Cheese%20kebab.jpg) |
@@ -210,24 +211,22 @@
 | [Sopa de alubias](./Sopas,%20pures%20y%20cremas/Sopa%20de%20alubias.jpg) |
 | [Solomillo a la mostaza](./Carnes%20rojas/Solomillo%20a%20la%20mostaza.jpg) |
 | [Vichyssoise](./Sopas,%20pures%20y%20cremas/Vichyssoise.jpg) |
-
- # En polvo
+| **En polvo**|
 | [Pollo al limón](./Aves/Pollo%20al%20limon.jpg) |
-
- # Morada
+| **Morada**|
 | [Pechugas con salsa strogonoff](./Aves/Pechugas%20con%20salsa%20strogonoff.jpg) |
 | [Pico de gallo](./Acompañantes/Pico%20de%20gallo.jpg) |
 
-|  Champiñones |
+| Champiñones |
 |:---|
 | [Beef strogonoff](./Carnes%20rojas/Beef%20strogonoff.jpg) |
 | [Pechugas con salsa strogonoff](./Aves/Pechugas%20con%20salsa%20strogonoff.jpg) |
 
-|  Chipirones |
+| Chipirones |
 |:---|
 | [Chipirones en su tinta](./Pescados/Chipirones%20en%20su%20tinta.jpg) |
 
-|  Chocolate |
+| Chocolate |
 |:---|
 | [Brownies](./Postres/Brownies.jpg) |
 
@@ -236,61 +235,77 @@
 | [Cookies brownie](./Postres/Cookies%20de%20brownie.jpg) |
 | [Chipirones en su tinta](./Pescados/Chipirones%20en%20su%20tinta.jpg) |
 
-  Chorizo
+| Chorizo |
+|:---|
 | [Lentejas](./Sopas,%20pures%20y%20cremas/Lentejas.jpg) |
 
-  Cilantro
+| Cilantro |
+|:---|
 | [Cheese Kebab](./Carnes%20rojas/Cheese%20kebab.jpg) |
 | [Conejo marinado](./Carnes%20rojas/Conejo%20marinado.jpg) |
 | [Guacamole](./Acompañantes/Guacamole.jpg) |
 | [Pico de gallo](./Acompañantes/Pico%20de%20gallo.jpg) |
 
-  Coliflor
+| Coliflor |
+|:---|
 | [Coliflor y brócoli gratinado](./Verduras/Coliflor%20y%20brocoli%20gratinado.jpg) |
 | [Pizza de coliflor](./Masas%20y%20panes/Pizza%20de%20coliflor.jpg) |
 | [Puré de coliflor](./Sopas,%20pures%20y%20cremas/Pure%20de%20coliflor.jpg) |
 
-  Conejo
+| Conejo |
+|:---|
 | [Conejo marinado](./Carnes%20rojas/Conejo%20marinado.jpg) |
 
-  Cordero
+| Cordero |
+|:---|
 | [Cordero al horno](./Carnes%20rojas/Cordero%20al%20horno.jpg) |
 
-  Costilla
+| Costilla |
+|:---|
 | [Costilla marinada al horno](./Carnes%20rojas/Costilla%20marinada%20al%20horno.jpg) |
 | [Costillas con salsa de cebolla](./Carnes%20rojas/Costillas%20con%20salsa%20de%20cebolla.jpg) |
 
-  Criollo
+| Criollo |
+|:---|
 | [Criollo a la cerveza](./Carnes%20rojas/Criollo%20a%20la%20cerveza.jpg) |
 
-  Cuajada
+| Cuajada |
+|:---|
 | [Flan de queso](./Postres/Flan%20de%20queso.jpg) |
 
-  Curry en polvo
+| Curry en polvo |
+|:---|
 | [Pollo al curry](./Aves/Pollo%20al%20curry.jpg) |
 
 ## F
-  Frutos secos
+| Frutos secos |
+|:---|
 | [Carrot cake](./Postres/Carrot%20cake.jpg) |
 
-  Fideos
+| Fideos |
+|:---|
 | [Fideua](./Pastas/Fideua.jpg) |
 
 ## G
-  Galletas Biscott
+| Galletas Biscott |
+|:---|
 | [Flan de queso](./Postres/Flan%20de%20queso.jpg) |
 
-  Gambas
+| Gambas |
+|:---|
 | [Fideua](./Pastas/Fideua.jpg) |
 
-  Garbanzos
+| Garbanzos |
+|:---|
 | [Hummus](./Acompañantes/Hummus.jpg) |
 
-  Guindilla seca
+| Guindilla seca |
+|:---|
 | [Pollo al ajillo](./Aves/Pollo%20al%20ajillo.jpg) |
 
 ## H
-  Huevos
+| Huevos |
+|:---|
 | [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg) |
 | [Bizcocho de chocolate](./Postres/Bizcocho%20de%20chocolate.jpg) |
 | [Brazo de gitano](./Postres/Brazo%20de%20gitano.jpg) |
@@ -302,56 +317,68 @@
 | [Pizza de coliflor](./Masas%20y%20panes/Pizza%20de%20coliflor.jpg) |
 | [San jacobos de calabacín](./Verduras/San%20jacobos%20de%20calabacin.jpg) |
 | [Tiramisú](./Postres/Tiramisu.jpg) |
- # Clara
+| **Clara** |
 | [Sesame chicken](./Aves/Sesame%20chicken.jpg) |
 | [Tarta de almendra](./Postres/Tarta%20de%20almendra.jpg) |
- # Yema
+| **Yema** |
 | [Natillas](./Postres/Natillas.jpg) |
 
 ## J
-  Jalapeño
+| Jalapeño |
+|:---|
 | [Guacamole](./Acompañantes/Guacamole.jpg) |
 | [Pico de gallo](./Acompañantes/Pico%20de%20gallo.jpg) |
 
-  Jamón cocido
+| Jamón cocido |
+|:---|
 | [San jacobos de calabacín](./Verduras/San%20jacobos%20de%20calabacin.jpg) |
 
-  Jengibre
+| Jengibre |
+|:---|
 | [Pollo con almendras](./Aves/Pollo%20con%20almendras.jpg) |
 | [Puré de coliflor](./Sopas,%20pures%20y%20cremas/Pure%20de%20coliflor.jpg) |
 | [Salteado de ternera](./Carnes%20rojas/Salteado%20de%20ternera.jpg) |
 
-  Jengibre molido
+| Jengibre molido |
+|:---|
 | [Carrot cake](./Postres/Carrot%20cake.jpg) |
 
-  Judías verdes
+| Judías verdes |
+|:---|
 | [Arroz con cosas](./Arroces/Arroz%20con%20cosas.jpg) |
 
 ## K
-  Ketchup
+| Ketchup |
+|:---|
 | [Sesame chicken](./Aves/Sesame%20chicken.jpg) |
 
 ## L
-  Leche de coco
+| Leche de coco |
+|:---|
 | [Pollo al curry](./Aves/Pollo%20al%20curry.jpg) |
 | [Vichyssoise](./Sopas,%20pures%20y%20cremas/Vichyssoise.jpg) |*
 
-  Lentejas
+| Lentejas |
+|:---|
 | [Lentejas](./Sopas,%20pures%20y%20cremas/Lentejas.jpg) |
 
-  Levadura
+| Levadura |
+|:---|
 | [Focaccia](./Masas%20y%20panes/Focaccia.jpg) |
 | [Masa de pizza](./Masas%20y%20panes/Masa%20de%20pizza.jpg) |
 
-  Levadura química
+| Levadura química |
+|:---|
 | [Bizcocho de chocolate](./Postres/Bizcocho%20de%20chocolate.jpg) |
 | [Sesame chicken](./Aves/Sesame%20chicken.jpg) |
 
-  Lima
+| Lima |
+|:---|
 | [Guacamole](./Acompañantes/Guacamole.jpg) |
 | [Pico de gallo](./Acompañantes/Pico%20de%20gallo.jpg) |
 
-  Limón
+| Limón |
+|:---|
 | [Arroz con leche](./Postres/Arroz%20con%20leche.jpg) |
 | [Brazo de gitano](./Postres/Brazo%20de%20gitano.jpg) |
 | [Brownies](./Postres/Brownies.jpg) |
@@ -366,11 +393,13 @@
 | [Pollo KFC](./Aves/Pollo%20kfc.jpg) |
 | [Tarta de almendra](./Postres/Tarta%20de%20almendra.jpg) |
 
-  Longanizas
+| Longanizas |
+|:---|
 | [Cheese Kebab](./Carnes%20rojas/Cheese%20kebab.jpg) |
 
 ## M
-  Maicena
+| Maicena |
+|:---|
 | [Natillas](./Postres/Natillas.jpg) |
 | [Patatas fritas con salsa de queso](./Acompañantes/Patatas%20fritas%20con%20salsa%20de%20queso.jpg) |
 | [Pollo al limón](./Aves/Pollo%20al%20limon.jpg) |
@@ -378,17 +407,20 @@
 | [Salteado de ternera](./Carnes%20rojas/Salteado%20de%20ternera.jpg) |
 | [Sesame chicken](./Aves/Sesame%20chicken.jpg) |
 
-  Mayonesa
+| Mayonesa |
+|:---|
 | [Ensalada de patata](./Ensaladas/Ensalada%20de%20patata.jpg) |
 
-  Miel
+| Miel |
+|:---|
 | [Pescado a la naranja](./Pescados/Pescado%20a%20la%20naranja.jpg) |
 | [Pollo al limón](./Aves/Pollo%20al%20limon.jpg) |
 | [Pollo con ajo y miel](./Aves/Pollo%20con%20ajo%20y%20miel.jpg) |
 | [Sesame chicken](./Aves/Sesame%20chicken.jpg) |
 | [Solomillo a la mostaza](./Carnes%20rojas/Solomillo%20a%20la%20mostaza.jpg) |
 
-  Mostaza
+| Mostaza |
+|:---|
 | [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg) |
 | [Beef strogonoff](./Carnes%20rojas/Beef%20strogonoff.jpg) |
 | [Costilla marinada al horno](./Carnes%20rojas/Costilla%20marinada%20al%20horno.jpg) |
@@ -398,16 +430,15 @@
 | [Pescado a la naranja](./Pescados/Pescado%20a%20la%20naranja.jpg) |
 | [Pescado al horno](./Pescados/Pescado%20al%20horno.jpg) |
 | [Pollo al ajillo](./Aves/Pollo%20al%20ajillo.jpg) |
-
- # Antigua
+| **Antigua** |
 | [Solomillo a la mostaza](./Carnes%20rojas/Solomillo%20a%20la%20mostaza.jpg) |
-
- # Dijón
+| **Dijón** |
 | [Pollo marinado](./Aves/Pollo%20marinado.jpg) |
 | [Solomillo a la mostaza](./Carnes%20rojas/Solomillo%20a%20la%20mostaza.jpg) |
 
 ## N
-  Nata
+| Nata |
+|:---|
 | [Beef strogonoff](./Carnes%20rojas/Beef%20strogonoff.jpg) |
 | [Brazo de gitano](./Postres/Brazo%20de%20gitano.jpg) |
 | [Flan de queso](./Postres/Flan%20de%20queso.jpg) |
@@ -417,23 +448,28 @@
 | [Pechugas con salsa strogonoff](./Aves/Pechugas%20con%20salsa%20strogonoff.jpg) |
 | [Vichyssoise](./Sopas,%20pures%20y%20cremas/Vichyssoise.jpg) |*
 
-  Naranja
+| Naranja |
+|:---|
 | [Arroz con leche](./Postres/Arroz%20con%20leche.jpg) |
 | [Costilla marinada al horno](./Carnes%20rojas/Costilla%20marinada%20al%20horno.jpg) |
 | [Pescado a la naranja](./Pescados/Pescado%20a%20la%20naranja.jpg) |
 
-  Nuez moscada
+| Nuez moscada |
+|:---|
 | [Carrot cake](./Postres/Carrot%20cake.jpg) |
 
 ## P
-  Pan de molde
+| Pan de molde |
+|:---|
 | [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg) |
 
-  Pan rallado
+| Pan rallado |
+|:---|
 | [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg) |
 | [San jacobos de calabacín](./Verduras/San%20jacobos%20de%20calabacin.jpg) |
 
-  Patata
+| Patata |
+|:---|
 | [Costilla marinada al horno](./Carnes%20rojas/Costilla%20marinada%20al%20horno.jpg) |
 | [Ensalada de patata](./Ensaladas/Ensalada%20de%20patata.jpg) |
 | [Lentejas](./Sopas,%20pures%20y%20cremas/Lentejas.jpg) |
@@ -441,24 +477,30 @@
 | [Pescado al horno](./Pescados/Pescado%20al%20horno.jpg) |
 | [Vichyssoise](./Sopas,%20pures%20y%20cremas/Vichyssoise.jpg) |
 
-  Pepino
+| Pepino |
+|:---|
 | [Cheese Kebab](./Carnes%20rojas/Cheese%20kebab.jpg) |
 
-  Perejil
+| Perejil |
+|:---|
 | [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg) |
 | [Pasta con queso al horno](./Pastas/Pasta%20con%20queso%20al%20horno.jpg) |
 | [Pollo marinado](./Aves/Pollo%20marinado.jpg) |
 
-  Pescado
+| Pescado |
+|:---|
 | [Pescado a la naranja](./Pescados/Pescado%20a%20la%20naranja.jpg) |
 
-  Pescado blanco
+| Pescado blanco |
+|:---|
 | [Pescado al horno](./Pescados/Pescado%20al%20horno.jpg) |
 
-  Pescado rojo
+| Pescado rojo |
+|:---|
 | [Poke](./Ensaladas/Poke.jpg) |
 
-  Pimiento
+| Pimiento |
+|:---|
 | [Arroz caldoso](./Arroces/Arroz%20caldoso.jpg) |
 | [Chipirones en su tinta](./Pescados/Chipirones%20en%20su%20tinta.jpg) |
 | [Fajitas](./Aves/Fajitas.jpg) |
@@ -467,16 +509,17 @@
 | [Salteado de ternera](./Carnes%20rojas/Salteado%20de%20ternera.jpg) |
 | [Sopa de alubias](./Sopas,%20pures%20y%20cremas/Sopa%20de%20alubias.jpg) |
 
-  Pollo
+| Pollo |
+|:---|
 | [Arroz con cosas](./Arroces/Arroz%20con%20cosas.jpg) |
 | [Pollo al ajillo](./Aves/Pollo%20al%20ajillo.jpg) |
 | [Pollo al curry](./Aves/Pollo%20al%20curry.jpg) |
 | [Pollo al limón](./Aves/Pollo%20al%20limon.jpg) |
 | [Pollo marinado](./Aves/Pollo%20marinado.jpg) |
 | [Sesame chicken](./Aves/Sesame%20chicken.jpg) |
- # Alitas
+| **Alitas** |
 | [Alitas de pollo](./Aves/Alitas%20de%20pollo.jpg) |
- # Pechuga
+| **Pechuga**|
 | [Fajitas](./Aves/Fajitas.jpg) |
 | [Pasta con pollo](./Pastas/Pasta%20con%20pollo.jpg) |
 | [Pechugas con salsa strogonoff](./Aves/Pechugas%20con%20salsa%20strogonoff.jpg) |
@@ -484,30 +527,32 @@
 | [Pollo con almendras](./Aves/Pollo%20con%20almendras.jpg) |
 | [Pollo KFC](./Aves/Pollo%20kfc.jpg) |
 
-  Puerro
+| Puerro |
+|:---|
 | [Arroz caldoso](./Arroces/Arroz%20caldoso.jpg) |
 | [Vichyssoise](./Sopas,%20pures%20y%20cremas/Vichyssoise.jpg) |
 
 ## Q
-  Queso
+| Queso |
+|:---|
 | [Cheese Kebab](./Carnes%20rojas/Cheese%20kebab.jpg) |
 | [Poke](./Ensaladas/Poke.jpg) |
- # Cheddar
+| **Cheddar** |
 | [Patatas fritas con salsa de queso](./Acompañantes/Patatas%20fritas%20con%20salsa%20de%20queso.jpg) |
- # Crema
+| **Crema**|
 | [Carrot cake](./Postres/Carrot%20cake.jpg) |
 | [Flan de queso](./Postres/Flan%20de%20queso.jpg) |
- # Lonchas
+| **Lonchas**|
 | [San jacobos de calabacín](./Verduras/San%20jacobos%20de%20calabacin.jpg) |
- # Mascarpone
+| **Mascarpone**|
 | [Tiramisú](./Postres/Tiramisu.jpg) |
- # Mozzarella
+| **Mozzarella**|
 | [Focaccia di recco](./Masas%20y%20panes/Focaccia%20di%20recco.jpg) |
- # Parmesano
+| **Parmesano**|
 | [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg) |
 | [Flan de queso](./Postres/Flan%20de%20queso.jpg) | 
 | [Pasta con albóndigas suecas](./Pastas/Pasta%20con%20albondigas%20suecas.jpg) |
- # Rallado
+| **Rallado**|
 | [Coliflor y brócoli gratinado](./Verduras/Coliflor%20y%20brocoli%20gratinado.jpg) |
 | [Lasagna](./Pastas/Lasagna.jpg) |
 | [Pasta al limón](./Pastas/Pasta%20al%20limon.jpg) |
@@ -515,19 +560,23 @@
 | [Pizza de coliflor](./Masas%20y%20panes/Pizza%20de%20coliflor.jpg) |
 
 ## R
-  Romero seco
+| Romero seco |
+|:---|
 | [Focaccia di recco](./Masas%20y%20panes/Focaccia%20di%20recco.jpg) |
 | [Focaccia](./Masas%20y%20panes/Focaccia.jpg) |
 
 ## S
-  Salchichas
+| Salchichas |
+|:---|
 | [Pasta con queso al horno](./Pastas/Pasta%20con%20queso%20al%20horno.jpg) |
 
-  Salsa inglesa
+| Salsa inglesa |
+|:---|
 | [Pechugas con salsa strogonoff](./Aves/Pechugas%20con%20salsa%20strogonoff.jpg) |
 | [Pasta con albóndigas suecas](./Pastas/Pasta%20con%20albondigas%20suecas.jpg) |
 
-  Salsa de soja
+| Salsa de soja |
+|:---|
 | [Pollo al limón](./Aves/Pollo%20al%20limon.jpg) |
 | [Pollo con ajo y miel](./Aves/Pollo%20con%20ajo%20y%20miel.jpg) |
 | [Pollo con almendras](./Aves/Pollo%20con%20almendras.jpg) |
@@ -535,27 +584,32 @@
 | [Salteado de ternera](./Carnes%20rojas/Salteado%20de%20ternera.jpg) |
 | [Sesame chicken](./Aves/Sesame%20chicken.jpg) |
 
-  Salsa sriracha
+| Salsa sriracha |
+|:---|
 | [Salteado de ternera](./Carnes%20rojas/Salteado%20de%20ternera.jpg) |
 
-  Semillas de sésamo
+| Semillas de sésamo |
+|:---|
 | [Pollo con ajo y miel](./Aves/Pollo%20con%20ajo%20y%20miel.jpg) |
 | [Poke](./Ensaladas/Poke.jpg) |
 | [Sesame chicken](./Aves/Sesame%20chicken.jpg) |
 
 ## T
-  Tahini
+| Tahini |
+|:---|
 | [Cheese Kebab](./Carnes%20rojas/Cheese%20kebab.jpg) |
 | [Hummus](./Acompañantes/Hummus.jpg) |
 
-  Ternera
+| Ternera |
+|:---|
 | [Beef strogonoff](./Carnes%20rojas/Beef%20strogonoff.jpg) |
 | [Estofado en salsa de vino](./Carnes%20rojas/Estofado%20en%20salsa%20de%20vino.jpg) |
- # Solomillo
+| **Solomillo**|
 | [Salteado de ternera](./Carnes%20rojas/Salteado%20de%20ternera.jpg) |
 | [Solomillo a la mostaza](./Carnes%20rojas/Solomillo%20a%20la%20mostaza.jpg) |
 
-  Tomate
+| Tomate |
+|:---|
 | [Guacamole](./Acompañantes/Guacamole.jpg) |
 | [Huevos al plato](./Verduras/Huevos%20al%20plato.jpg) |
 | [Lentejas](./Sopas,%20pures%20y%20cremas/Lentejas.jpg) |
@@ -563,7 +617,8 @@
 | [Pico de gallo](./Acompañantes/Pico%20de%20gallo.jpg) |
 | [Sopa de alubias](./Sopas,%20pures%20y%20cremas/Sopa%20de%20alubias.jpg) |
 
-  Tomate (pasta de) |
+| Tomate (pasta de) |
+|:---|
 | [Chipirones en su tinta](./Pescados/Chipirones%20en%20su%20tinta.jpg) |
 | [Conejo marinado](./Carnes%20rojas/Conejo%20marinado.jpg) |
 | [Costilla marinada al horno](./Carnes%20rojas/Costilla%20marinada%20al%20horno.jpg) |
@@ -571,10 +626,12 @@
 | [Pasta con pollo](./Pastas/Pasta%20con%20pollo.jpg) |
 | [Pollo al curry](./Aves/Pollo%20al%20curry.jpg) |
 
-  Tomate (salsa) |
+| Tomate (salsa) |
+|:---|
 | [Pasta con queso al horno](./Pastas/Pasta%20con%20queso%20al%20horno.jpg) |
 
-  Tomate triturado
+| Tomate triturado |
+|:---|
 | [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg) |
 | [Arroz caldoso](./Arroces/Arroz%20caldoso.jpg) |
 | [Arroz con cosas](./Arroces/Arroz%20con%20cosas.jpg) |
@@ -583,26 +640,30 @@
 | [Pizza de coliflor](./Masas%20y%20panes/Pizza%20de%20coliflor.jpg) |
 
 ## V
-  Vainilla
+| Vainilla |
+|:---|
 | [Carrot cake](./Postres/Carrot%20cake.jpg) |
 | [Flan de queso](./Postres/Flan%20de%20queso.jpg) |
 | [Natillas](./Postres/Natillas.jpg) |
 | [Tiramisú](./Postres/Tiramisu.jpg) |
 
-  Vinagre
+| Vinagre |
+|:---|
 | [Conejo marinado](./Carnes%20rojas/Conejo%20marinado.jpg) |
 | [Ensalada de patata](./Ensaladas/Ensalada%20de%20patata.jpg) |
 | [Pollo con ajo y miel](./Aves/Pollo%20con%20ajo%20y%20miel.jpg) |
 | [Sesame chicken](./Aves/Sesame%20chicken.jpg) |
- # Balsámico
+| **Balsámico**|
 | [Pollo marinado](./Aves/Pollo%20marinado.jpg) |
 
 ## Y
-  Yogurt griego
+| Yogurt griego |
+|:---|
 | [Cheese Kebab](./Carnes%20rojas/Cheese%20kebab.jpg) |
 
 ## Z
-  Zanahoria
+| Zanahoria |
+|:---|
 | [Carrot cake](./Postres/Carrot%20cake.jpg) |
 | [Costilla marinada al horno](./Carnes%20rojas/Costilla%20marinada%20al%20horno.jpg) |
 | [Estofado en salsa de vino](./Carnes%20rojas/Estofado%20en%20salsa%20de%20vino.jpg) |
