@@ -1,0 +1,3 @@
+wheel
+fuzzywuzzy
+python-Levenshtein
