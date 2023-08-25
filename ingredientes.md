@@ -162,6 +162,7 @@
  - [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg)
  - [Beef strogonoff](./Carnes%20rojas/Beef%20strogonoff.jpg)
  - [Cheese Kebab](./Carnes%20rojas/Cheese%20kebab.jpg)
+ - [Chipirones en su tinta](./Pescados/Chipirones%20en%20su%20tinta.jpg)
  - [Coliflor y brócoli gratinado](./Verduras/Coliflor%20y%20brocoli%20gratinado.jpg)
  - [Costillas con salsa de cebolla](./Carnes%20rojas/Costillas%20con%20salsa%20de%20cebolla.jpg)
  - [Criollo a la cerveza](./Carnes%20rojas/Criollo%20a%20la%20cerveza.jpg)
@@ -175,6 +176,7 @@
  - [Lentejas](./Sopas,%20pures%20y%20cremas/Lentejas.jpg)
  - [Pasta con pollo](./Pastas/Pasta%20con%20pollo.jpg)
  - [Pasta con verduras](./Pastas/Pasta%20con%20verduras.jpg)
+ - [Pescado al horno](./Pescados/Pescado%20al%20horno.jpg)
  - [Pollo al curry](./Aves/Pollo%20al%20curry.jpg)
  - [Pollo con almendras](./Aves/Pollo%20con%20almendras.jpg)
  - [Poke](./Ensaladas/Poke.jpg)
@@ -194,10 +196,14 @@
 - [Beef strogonoff](./Carnes%20rojas/Beef%20strogonoff.jpg)
 - [Pechugas con salsa strogonoff](./Aves/Pechugas%20con%20salsa%20strogonoff.jpg)
 
+### Chipirones
+- [Chipirones en su tinta](./Pescados/Chipirones%20en%20su%20tinta.jpg)
+
 ### Chocolate
  - [Brownies](./Postres/Brownies.jpg)
 #### Negro
  - [Cookies brownie](./Postres/Cookies%20de%20brownie.jpg)
+ - [Chipirones en su tinta](./Pescados/Chipirones%20en%20su%20tinta.jpg)
 
 ### Chorizo
 - [Lentejas](./Sopas,%20pures%20y%20cremas/Lentejas.jpg)
@@ -322,6 +328,8 @@
 - [Costilla marinada al horno](./Carnes%20rojas/Costilla%20marinada%20al%20horno.jpg)
 - [Hummus](./Acompañantes/Hummus.jpg)
 - [Pasta al limón](./Pastas/Pasta%20al%20limon.jpg)
+- [Pescado a la naranja](./Pescados/Pescado%20a%20la%20naranja.jpg)
+- [Pescado al horno](./Pescados/Pescado%20al%20horno.jpg)
 - [Pollo al ajillo](./Aves/Pollo%20al%20ajillo.jpg)
 - [Pollo al limón](./Aves/Pollo%20al%20limon.jpg)
 - [Pollo KFC](./Aves/Pollo%20kfc.jpg)
@@ -343,6 +351,7 @@
 - [Ensalada de patata](./Ensaladas/Ensalada%20de%20patata.jpg)
 
 ### Miel
+- [Pescado a la naranja](./Pescados/Pescado%20a%20la%20naranja.jpg)
 - [Pollo al limón](./Aves/Pollo%20al%20limon.jpg)
 - [Pollo con ajo y miel](./Aves/Pollo%20con%20ajo%20y%20miel.jpg)
 - [Sesame chicken](./Aves/Sesame%20chicken.jpg)
@@ -355,6 +364,8 @@
 - [Ensalada de patata](./Ensaladas/Ensalada%20de%20patata.jpg)
 - [Huevos Rellenos](./Acompañantes/Huevos%20rellenos.jpg)
 - [Pechugas con salsa strogonoff](./Aves/Pechugas%20con%20salsa%20strogonoff.jpg)
+- [Pescado a la naranja](./Pescados/Pescado%20a%20la%20naranja.jpg)
+- [Pescado al horno](./Pescados/Pescado%20al%20horno.jpg)
 - [Pollo al ajillo](./Aves/Pollo%20al%20ajillo.jpg)
 
 #### Antigua
@@ -364,7 +375,7 @@
 - [Pollo marinado](./Aves/Pollo%20marinado.jpg)
 - [Solomillo a la mostaza](./Carnes%20rojas/Solomillo%20a%20la%20mostaza.jpg)
 
-# N
+## N
 ### Nata
 - [Beef strogonoff](./Carnes%20rojas/Beef%20strogonoff.jpg)
 - [Brazo de gitano](./Postres/Brazo%20de%20gitano.jpg)
@@ -378,6 +389,7 @@
 ### Naranja
 - [Arroz con leche](./Postres/Arroz%20con%20leche.jpg)
 - [Costilla marinada al horno](./Carnes%20rojas/Costilla%20marinada%20al%20horno.jpg)
+- [Pescado a la naranja](./Pescados/Pescado%20a%20la%20naranja.jpg)
 
 ### Nuez moscada
 - [Carrot cake](./Postres/Carrot%20cake.jpg)
@@ -395,6 +407,7 @@
  - [Ensalada de patata](./Ensaladas/Ensalada%20de%20patata.jpg)
  - [Lentejas](./Sopas,%20pures%20y%20cremas/Lentejas.jpg)
  - [Patatas fritas con salsa de queso](./Acompañantes/Patatas%20fritas%20con%20salsa%20de%20queso.jpg)
+ - [Pescado al horno](./Pescados/Pescado%20al%20horno.jpg)
  - [VIchyssoise](./Sopas,%20pures%20y%20cremas/Vichyssoise.jpg)
 
 ### Pepino
@@ -405,11 +418,18 @@
 - [Pasta con queso al horno](./Pastas/Pasta%20con%20queso%20al%20horno.jpg)
 - [Pollo marinado](./Aves/Pollo%20marinado.jpg)
 
+### Pescado
+- [Pescado a la naranja](./Pescados/Pescado%20a%20la%20naranja.jpg)
+
+### Pescado blanco
+- [Pescado al horno](./Pescados/Pescado%20al%20horno.jpg)
+
 ### Pescado rojo
 - [Poke](./Ensaladas/Poke.jpg)
 
 ### Pimiento
 - [Arroz caldoso](./Arroces/Arroz%20caldoso.jpg)
+- [Chipirones en su tinta](./Pescados/Chipirones%20en%20su%20tinta.jpg)
 - [Fajitas](./Aves/Fajitas.jpg)
 - [Lentejas](./Sopas,%20pures%20y%20cremas/Lentejas.jpg)
 - [Pasta con verduras](./Pastas/Pasta%20con%20verduras.jpg)
@@ -511,6 +531,7 @@
 - [Sopa de alubias](./Sopas,%20pures%20y%20cremas/Sopa%20de%20alubias.jpg)
 
 ### Tomate (pasta de)
+- [Chipirones en su tinta](./Pescados/Chipirones%20en%20su%20tinta.jpg)
 - [Conejo marinado](./Carnes%20rojas/Conejo%20marinado.jpg)
 - [Costilla marinada al horno](./Carnes%20rojas/Costilla%20marinada%20al%20horno.jpg)
 - [Fideua](./Pastas/Fideua.jpg)
