@@ -58,7 +58,7 @@
 |:---|
 | [Sopa de alubias](./Sopas,%20pures%20y%20cremas/Sopa%20de%20alubias.jpg) |
 
-|| Anacardos |
+| Anacardos |
 |:---|
 | [Puré de coliflor](./Sopas,%20pures%20y%20cremas/Pure%20de%20coliflor.jpg) |
 
@@ -67,23 +67,23 @@
 | [Ensalada de patata](./Ensaladas/Ensalada%20de%20patata.jpg) |
 | [Lasagna](./Pastas/Lasagna.jpg) |
 
-|| Arroz |
+| Arroz |
 |:---|
 | [Arroz caldoso](./Arroces/Arroz%20caldoso.jpg) |
 | [Arroz con cosas](./Arroces/Arroz%20con%20cosas.jpg) |
 | [Arroz con leche](./Postres/Arroz%20con%20leche.jpg) |
 | [Poke](./Ensaladas/Poke.jpg) |
 
-|| Atún en aceite |
+| Atún en aceite |
 |:---|
 | [Huevos rellenos](./Acompañantes/Huevos%20rellenos.jpg) |
 
-|| Azafrán |
+| Azafrán |
 |:---|
 | [Arroz con cosas](./Arroces/Arroz%20con%20cosas.jpg) |
 | [Fideua](./Pastas/Fideua.jpg) |
 
-|| Azúcar |
+| Azúcar |
 |:---|
 | [Arroz con leche](./Postres/Arroz%20con%20leche.jpg) |
 | [Bizcocho de chocolate](./Postres/Bizcocho%20de%20chocolate.jpg) |
