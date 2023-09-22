@@ -22,8 +22,10 @@
 | Ajo |
 |:---|
 | [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg) |
+| [Alitas a la sriracha](./Aves/Alitas%a%20la%20sriracha.jpg) |
 | [Arroz caldoso](./Arroces/Arroz%20caldoso.jpg) |
 | [Arroz con cosas](./Arroces/Arroz%20con%20cosas.jpg) |
+| [Arroz indio con verduras](./Arroces/Arroz%20indio%20con%20verduras.jpg) |
 | [Conejo marinado](./Carnes%20rojas/Conejo%20marinado.jpg) |
 | [Costillas con salsa de cebolla](./Carnes%20rojas/Costillas%20con%20salsa%20de%20cebolla.jpg) |
 | [Estofado en salsa de vino](./Carnes%20rojas/Estofado%20en%20salsa%20de%20vino.jpg) |
@@ -72,6 +74,7 @@
 | [Arroz caldoso](./Arroces/Arroz%20caldoso.jpg) |
 | [Arroz con cosas](./Arroces/Arroz%20con%20cosas.jpg) |
 | [Arroz con leche](./Postres/Arroz%20con%20leche.jpg) |
+| [Arroz indio con verduras](./Arroces/Arroz%20indio%20con%20verduras.jpg) |
 | [Poke](./Ensaladas/Poke.jpg) |
 
 | Atún en aceite |
@@ -81,6 +84,7 @@
 | Azafrán |
 |:---|
 | [Arroz con cosas](./Arroces/Arroz%20con%20cosas.jpg) |
+| [Arroz indio con verduras](./Arroces/Arroz%20indio%20con%20verduras.jpg) |
 | [Fideua](./Pastas/Fideua.jpg) |
 
 | Azúcar |
@@ -141,6 +145,7 @@
 
 | Calabacín |
 |:---|
+| [Arroz indio con verduras](./Arroces/Arroz%20indio%20con%20verduras.jpg) |
 | [Huevos al plato](./Verduras/Huevos%20al%20plato.jpg) |
 | [San jacobos de calabacín](./Verduras/San%20jacobos%20de%20calabacin.jpg) |
 
@@ -153,6 +158,7 @@
 | [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg) |
 | [Arroz caldoso](./Arroces/Arroz%20caldoso.jpg) |
 | [Arroz con cosas](./Arroces/Arroz%20con%20cosas.jpg) |
+| [Arroz indio con verduras](./Arroces/Arroz%20indio%20con%20verduras.jpg) |
 | [Beef strogonoff](./Carnes%20rojas/Beef%20strogonoff.jpg) |
 | [Costillas con salsa de cebolla](./Carnes%20rojas/Costillas%20con%20salsa%20de%20cebolla.jpg) |
 | [Estofado en salsa de vino](./Carnes%20rojas/Estofado%20en%20salsa%20de%20vino.jpg) |
@@ -187,6 +193,7 @@
 |:---|
 | **Any excepto morada**|
 | [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg) |
+| [Arroz indio con verduras](./Arroces/Arroz%20indio%20con%20verduras.jpg) |
 | [Beef strogonoff](./Carnes%20rojas/Beef%20strogonoff.jpg) |
 | [Cheese Kebab](./Carnes%20rojas/Cheese%20kebab.jpg) |
 | [Chipirones en su tinta](./Pescados/Chipirones%20en%20su%20tinta.jpg) |
@@ -216,6 +223,10 @@
 | **Morada**|
 | [Pechugas con salsa strogonoff](./Aves/Pechugas%20con%20salsa%20strogonoff.jpg) |
 | [Pico de gallo](./Acompañantes/Pico%20de%20gallo.jpg) |
+
+| Cerveza |
+|:---|
+| [Alitas a la sriracha](./Aves/Alitas%a%20la%20sriracha.jpg) |
 
 | Champiñones |
 |:---|
@@ -275,7 +286,13 @@
 
 | Curry en polvo |
 |:---|
+| [Arroz indio con verduras](./Arroces/Arroz%20indio%20con%20verduras.jpg) |
 | [Pollo al curry](./Aves/Pollo%20al%20curry.jpg) |
+
+## E
+| Espárragos |
+|:---|
+| [Arroz indio con verduras](./Arroces/Arroz%20indio%20con%20verduras.jpg) |
 
 ## F
 | Frutos secos |
@@ -297,6 +314,7 @@
 
 | Garbanzos |
 |:---|
+| [Arroz indio con verduras](./Arroces/Arroz%20indio%20con%20verduras.jpg) |
 | [Hummus](./Acompañantes/Hummus.jpg) |
 
 | Guindilla seca |
@@ -304,6 +322,10 @@
 | [Pollo al ajillo](./Aves/Pollo%20al%20ajillo.jpg) |
 
 ## H
+| Harina |
+|:---|
+| [Alitas a la sriracha](./Aves/Alitas%a%20la%20sriracha.jpg) |
+
 | Huevos |
 |:---|
 | [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg) |
@@ -335,6 +357,7 @@
 
 | Jengibre |
 |:---|
+| [Arroz indio con verduras](./Arroces/Arroz%20indio%20con%20verduras.jpg) |
 | [Pollo con almendras](./Aves/Pollo%20con%20almendras.jpg) |
 | [Puré de coliflor](./Sopas,%20pures%20y%20cremas/Pure%20de%20coliflor.jpg) |
 | [Salteado de ternera](./Carnes%20rojas/Salteado%20de%20ternera.jpg) |
@@ -400,6 +423,7 @@
 ## M
 | Maicena |
 |:---|
+| [Alitas a la sriracha](./Aves/Alitas%a%20la%20sriracha.jpg) |
 | [Natillas](./Postres/Natillas.jpg) |
 | [Patatas fritas con salsa de queso](./Acompañantes/Patatas%20fritas%20con%20salsa%20de%20queso.jpg) |
 | [Pollo al limón](./Aves/Pollo%20al%20limon.jpg) |
@@ -518,6 +542,7 @@
 | [Pollo marinado](./Aves/Pollo%20marinado.jpg) |
 | [Sesame chicken](./Aves/Sesame%20chicken.jpg) |
 | **Alitas** |
+| [Alitas a la sriracha](./Aves/Alitas%a%20la%20sriracha.jpg) |
 | [Alitas de pollo](./Aves/Alitas%20de%20pollo.jpg) |
 | **Pechuga**|
 | [Fajitas](./Aves/Fajitas.jpg) |
@@ -586,6 +611,7 @@
 
 | Salsa sriracha |
 |:---|
+| [Alitas a la sriracha](./Aves/Alitas%a%20la%20sriracha.jpg) |
 | [Salteado de ternera](./Carnes%20rojas/Salteado%20de%20ternera.jpg) |
 
 | Semillas de sésamo |
@@ -635,6 +661,7 @@
 | [Albóndigas con tomate](./Carnes%20rojas/Albondigas%20con%20tomate.jpg) |
 | [Arroz caldoso](./Arroces/Arroz%20caldoso.jpg) |
 | [Arroz con cosas](./Arroces/Arroz%20con%20cosas.jpg) |
+| [Arroz indio con verduras](./Arroces/Arroz%20indio%20con%20verduras.jpg) |
 | [Estofado en salsa de vino](./Carnes%20rojas/Estofado%20en%20salsa%20de%20vino.jpg) |
 | [Lasagna](./Pastas/Lasagna.jpg) |
 | [Pizza de coliflor](./Masas%20y%20panes/Pizza%20de%20coliflor.jpg) |
