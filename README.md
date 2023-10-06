@@ -7,10 +7,10 @@ Recopilación de recetas de cocina para compartir.
 * No modificar recetas que no son tuyas.
 * Usar un formato cómodo (por ejemplo png o similares, para poder abrirlo en el móvil).
 * Dividirlo de forma "lógica" (más o menos) para ayudar en la búsqueda de recetas.
+* Si cada persona tiene su carpeta o todos compartimos la misma. Usamos todos las mismas carpetas, pero ponemos un _ + Nombre al final.
 
 **Importante a discutir**:  
 
-* Si cada persona tiene su carpeta o todos compartimos la misma.
 * Si hacemos algún sistema de etiquetas/metadata para marcar los electrodomésticos necesarios (sartén, olla, horno, freidora de aire, ...).
 
 ---
@@ -24,3 +24,8 @@ Recopilación de recetas de cocina para compartir.
 * `''` -> Segundos.
 * `2h @ 180ºC` -> 2 horas a 180 grados.
 * Cuando pongo que **gratino** ajo o jengibre significa rallar, porque en inglés es *grated* y mi cerebro no dió para más a la hora de traducir.
+
+---
+
+**Notas de Santi**:
+
