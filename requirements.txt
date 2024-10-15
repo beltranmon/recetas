@@ -1,0 +1,7 @@
+pandas
+pdfplumber
+tabulate
+streamlit
+streamlit-tags
+streamlit-pills
+thefuzz
