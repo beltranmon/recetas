@@ -6,6 +6,8 @@ import re
 from functools import lru_cache
 from pdfplumber.utils import extract_text
 
+from utils import list_flatten
+
 
 def get_pdf_data(path):
     extracted_text = process_pdf(path)
@@ -60,7 +62,6 @@ def process_text(text):
     return re.sub(' +', ' ', text).strip()
 
 
-@lru_cache(1)
 def read_recipes():
     files = [file for file in glob.glob('Recetas' + '/**/*.pdf', recursive=True) if 'template' not in file.lower()]
     data = {}
@@ -76,3 +77,11 @@ def read_recipes():
         data[file_class].append(pdf_data)
 
     return data
+
+
+@lru_cache(1)
+def read_recipes_data():
+    sorted_recipes = read_recipes()
+    all_recipes = list_flatten([sorted_recipes[recipe_type] for recipe_type in sorted_recipes])
+    all_ingredients = list(set([ingredient['name'] for recipe in all_recipes for ingredient in recipe['ingredients']]))
+    return sorted_recipes, all_recipes, all_ingredients

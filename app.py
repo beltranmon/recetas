@@ -1,10 +1,11 @@
 import base64
 import pandas as pd
 import streamlit as st
+
 from streamlit_pills import pills
 from streamlit_tags import st_tags
 
-from recipes_reader import read_recipes
+from recipes_reader import read_recipes_data
 from utils import read_json, words_distance, list_flatten
 
 
@@ -73,19 +74,22 @@ def show_readme(readme_path):
     with open(readme_path, 'r') as f:
         readme_line = f.readlines()
     readme_buffer = []
-    resource_files = [os.path.basename(x) for x in glob.glob('Resources/*')]
+    #resource_files = [os.path.basename(x) for x in glob.glob('Resources/*')]
     # resource_files
     for line in readme_line :
         readme_buffer.append(line) 
+        """
         for image in resource_files:
             if image in line:
                 st.markdown(''.join(readme_buffer[:-1])) 
                 st.image(f'Resources/{image}')
                 readme_buffer.clear()
+        """
     st.markdown(''.join(readme_buffer))
 
 
 def show_recipes(recipes):
+    recipes = sorted(recipes, key=lambda x: x['recipe'])
     for recipe in recipes:
         with st.expander(recipe['recipe']):
             show_pdf(recipe['pdf'])
@@ -94,17 +98,20 @@ def show_recipes(recipes):
 def frontend(sorted_recipes, all_recipes, all_ingredients):
     st.header("""Recetas""")
     # Sidebar Selecbox
-    input_type_dict = {'Recetas': 0, 'Buscador': 1}
+    input_type_dict = {'Readme': 0, 'Recetas': 1, 'Buscador': 2}
     input_type = st.sidebar.selectbox("Funciones", input_type_dict, index=0)
     # TUTORIALS
     if input_type_dict[input_type] == 0:
-        st.subheader(input_type)
-        selected_recipe_type = pills("Tipo", list(sorted_recipes)) #["🍀", "🎈", "🌈"] 
-        show_recipes(sorted_recipes[selected_recipe_type])
-        
+        show_readme('README.md')
+
     if input_type_dict[input_type] == 1:
         st.subheader(input_type)
-        ingredients = st_tags(label='Escribe tus ingredientes (si el buscador está vacío no habrán resultados)', text="Enter para añadir más", value=['cebolla', 'pimienta'])
+        selected_recipe_type = pills("Tipo", sorted(list(sorted_recipes))) #["🍀", "🎈", "🌈"] 
+        show_recipes(sorted_recipes[selected_recipe_type])
+        
+    if input_type_dict[input_type] == 2:
+        st.subheader(input_type)
+        ingredients = st_tags(label='Escribe tus ingredientes (si el buscador está vacío no habrán resultados)', text="Enter para añadir más")
         strict_search = st.toggle('Incluir TODOS los ingredientes')
         matches = words_distance(ingredients, all_ingredients)
         filtered_recipes = filter_recipes(all_recipes, matches, strict_search)
@@ -116,9 +123,7 @@ def main():
                        page_icon=":rice:", layout="centered",
                        initial_sidebar_state="expanded")
     #if check_password():
-    sorted_recipes = read_recipes()
-    all_recipes = list_flatten([sorted_recipes[recipe_type] for recipe_type in sorted_recipes])
-    all_ingredients = list(set([ingredient['name'] for recipe in all_recipes for ingredient in recipe['ingredients']]))
+    sorted_recipes, all_recipes, all_ingredients = read_recipes_data()
     frontend(sorted_recipes, all_recipes, all_ingredients)
 
 
