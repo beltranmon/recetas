@@ -56,6 +56,7 @@ def filter_recipes(all_recipes, to_search, strict_search):
     return [recipe for recipe in all_recipes if recipe['recipe'] in to_return]
 
 
+@st.cache_data
 def show_pdf(file_path):
     """
     Prints a pdf in the frontend
@@ -66,6 +67,7 @@ def show_pdf(file_path):
     st.markdown(f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="100%" height="1000" type="application/pdf"></iframe>', unsafe_allow_html=True)
 
 
+@st.cache_data
 def show_readme(readme_path):
     """
     Shows in Streamlit a Readme file (images included)
