@@ -5,6 +5,7 @@ primaryColor="#7F00FF"
 [server]
 #port = 8080
 #address = "0.0.0.0"
+enableStaticServing = true
 
 [runner]
 magicEnabled = false
