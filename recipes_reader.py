@@ -2,8 +2,8 @@ import glob
 import pdfplumber
 import pandas as pd
 import re
+import streamlit as st
 
-from functools import lru_cache
 from pdfplumber.utils import extract_text
 
 from utils import list_flatten
@@ -79,7 +79,7 @@ def read_recipes():
     return data
 
 
-@lru_cache(1)
+@st.cache_data
 def read_recipes_data():
     sorted_recipes = read_recipes()
     all_recipes = list_flatten([sorted_recipes[recipe_type] for recipe_type in sorted_recipes])

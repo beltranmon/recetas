@@ -13,14 +13,16 @@ Hay algunas recetas que, aunque se llamen de alguna forma "tradicional" he cambi
 * Para ejecutar la app, instalar los requirements con `pip install -r requirements.txt` y arrancar la app con `streamlit run app.py`
 
 * TODO:
-1. Hacer apartado de 'crear receta' (que se pueda subir un pdf + formulario para añadir ingredientes, nombre, ... -> output: json con pdf en base64)
+1. Hacer apartado de 'crear receta' (que se pueda subir un pdf + formulario para añadir ingredientes, nombre, ... -> output: json con pdf en base64).
+2. Hacer apartado de 'lista de la compra' a partir de recetas, que recopile los ingredientes y sume cantidades (de la mejor forma posible).
 
 ---
 
 **Notas**:
 
 * Siempre es mejor leerse las recetas enteras antes de empezar a hacerlas, para optimizar tiempos de cocción o cambiar los pasos según convenga.
-* Hay ingredientes en los que no pongo cantidades, eso es porque o es al gusto o no me acordé de apuntarlas en su momento.
+* Las porciones son orientativas, dado que hay casos en los que habría que preparar acompañamientos (un pescado), o que son comidas que normalmente no se comen solas pero que en las porciones considero que si (por ejemplo, unas alitas de pollo). Igual que antes, lo mejor es leer la receta bien antes de prepararla para considerar si hay que acompañar de algo más.
+* Hay ingredientes en los que no pongo cantidades, eso es porque o es al gusto o no me acordé de apuntarlas en su momento. En la sal, pimienta y aceite considero que es al gusto, en general.
 * Los cuadrados morados indican alternativas (en el caso de los ingredientes) o aclaraciones (en el caso de las instrucciones).
 
 ---
@@ -35,5 +37,6 @@ Hay algunas recetas que, aunque se llamen de alguna forma "tradicional" he cambi
 
 **Cantidades**:
 
-* Cucharada -> 15 ml
-* Cucharadita -> 5 ml
+* Cucharada -> 15 ml / 15 g
+* Cucharadita -> 5 ml / 5 g
+* Vaso -> 240 ml / 250 g
