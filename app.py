@@ -2,6 +2,7 @@ import base64
 import pandas as pd
 import streamlit as st
 
+from streamlit_pdf_viewer import pdf_viewer
 from streamlit_pills import pills
 from streamlit_tags import st_tags
 
@@ -92,7 +93,8 @@ def show_recipes(recipes):
     recipes = sorted(recipes, key=lambda x: x['recipe'])
     for recipe in recipes:
         with st.expander(recipe['recipe']):
-            show_pdf(recipe['pdf'])
+            pdf_viewer(recipe['pdf'], width=680)
+            #show_pdf(recipe['pdf'])
 
 
 def frontend(sorted_recipes, all_recipes, all_ingredients):
