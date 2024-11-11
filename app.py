@@ -99,7 +99,7 @@ def show_recipes(recipes, pdf_width):
 
 def frontend(sorted_recipes, all_recipes, all_ingredients):
     st.header("""Recetas""")
-    pdf_width = st.sidebar.slider('Ancho del pdf', min_value=300, max_value=7000, value=650, step=50)
+    pdf_width = st.sidebar.slider('Ancho del pdf', min_value=300, max_value=700, value=650, step=50)
     # Sidebar Selecbox
     input_type_dict = {'Readme': 0, 'Recetas': 1, 'Buscador': 2}
     input_type = st.sidebar.selectbox("Funciones", input_type_dict, index=0)
