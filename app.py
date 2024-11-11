@@ -89,16 +89,17 @@ def show_readme(readme_path):
     st.markdown(''.join(readme_buffer))
 
 
-def show_recipes(recipes):
+def show_recipes(recipes, pdf_width):
     recipes = sorted(recipes, key=lambda x: x['recipe'])
     for recipe in recipes:
         with st.expander(recipe['recipe']):
-            pdf_viewer(recipe['pdf'], width=680)
+            pdf_viewer(recipe['pdf'], width=pdf_width)
             #show_pdf(recipe['pdf'])
 
 
 def frontend(sorted_recipes, all_recipes, all_ingredients):
     st.header("""Recetas""")
+    pdf_width = st.sidebar.slider('Ancho del pdf', min_value=100, max_value=1000, value=650, step=50)
     # Sidebar Selecbox
     input_type_dict = {'Readme': 0, 'Recetas': 1, 'Buscador': 2}
     input_type = st.sidebar.selectbox("Funciones", input_type_dict, index=0)
@@ -109,7 +110,7 @@ def frontend(sorted_recipes, all_recipes, all_ingredients):
     if input_type_dict[input_type] == 1:
         st.subheader(input_type)
         selected_recipe_type = pills("Tipo", sorted(list(sorted_recipes))) #["🍀", "🎈", "🌈"] 
-        show_recipes(sorted_recipes[selected_recipe_type])
+        show_recipes(sorted_recipes[selected_recipe_type], pdf_width)
         
     if input_type_dict[input_type] == 2:
         st.subheader(input_type)
