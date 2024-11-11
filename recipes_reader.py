@@ -63,7 +63,7 @@ def process_text(text):
 
 
 def read_recipes():
-    files = [file for file in glob.glob('Recetas' + '/**/*.pdf', recursive=True) if 'template' not in file.lower()]
+    files = [file for file in glob.glob('static' + '/**/*.pdf', recursive=True) if 'template' not in file.lower()]
     data = {}
     for pdf_path in files:
 

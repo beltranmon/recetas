@@ -1,6 +1,7 @@
 pandas
 pdfplumber
 streamlit
+streamlit-pdf-viewer
 streamlit-pills
 streamlit-tags
 tabulate
