@@ -99,7 +99,7 @@ def show_recipes(recipes, pdf_width):
 
 def frontend(sorted_recipes, all_recipes, all_ingredients):
     st.header("""Recetas""")
-    pdf_width = st.sidebar.slider('Ancho del pdf', min_value=100, max_value=1000, value=650, step=50)
+    pdf_width = st.sidebar.slider('Ancho del pdf', min_value=300, max_value=7000, value=650, step=50)
     # Sidebar Selecbox
     input_type_dict = {'Readme': 0, 'Recetas': 1, 'Buscador': 2}
     input_type = st.sidebar.selectbox("Funciones", input_type_dict, index=0)
@@ -118,7 +118,7 @@ def frontend(sorted_recipes, all_recipes, all_ingredients):
         strict_search = st.toggle('Incluir TODOS los ingredientes')
         matches = words_distance(ingredients, all_ingredients)
         filtered_recipes = filter_recipes(all_recipes, matches, strict_search)
-        show_recipes(filtered_recipes)
+        show_recipes(filtered_recipes, pdf_width)
 
 
 def main():

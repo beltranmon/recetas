@@ -20,6 +20,7 @@ Hay algunas recetas que, aunque se llamen de alguna forma "tradicional" he cambi
 
 **Notas**:
 
+* El _slider_ de "Ancho del pdf" sirve para variar su tamaño (dado que se ven como imágenes y no se puede hacer zoom) y poder visualizarse tanto en móvil como en PC.
 * Siempre es mejor leerse las recetas enteras antes de empezar a hacerlas, para optimizar tiempos de cocción o cambiar los pasos según convenga.
 * Las porciones son orientativas, dado que hay casos en los que habría que preparar acompañamientos (un pescado), o que son comidas que normalmente no se comen solas pero que en las porciones considero que si (por ejemplo, unas alitas de pollo). Igual que antes, lo mejor es leer la receta bien antes de prepararla para considerar si hay que acompañar de algo más.
 * Hay ingredientes en los que no pongo cantidades, eso es porque o es al gusto o no me acordé de apuntarlas en su momento. En la sal, pimienta y aceite considero que es al gusto, en general.
