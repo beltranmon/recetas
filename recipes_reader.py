@@ -6,15 +6,15 @@ import streamlit as st
 
 from pdfplumber.utils import extract_text
 
-from utils import list_flatten
+from utils import list_flatten, write_json
 
 
 def get_pdf_data(path):
     extracted_text = process_pdf(path)
+    
     recipe_data = {'ingredients': []}
     ingredients = False
     instructions = False
-    instructions_lines = []
     for line in extracted_text:
         if 'Receta' in line and not recipe_data.get('recipe'):
             recipe_data['recipe'] = process_text(line.replace('Receta', '').split('Porciones')[0])
@@ -28,18 +28,18 @@ def get_pdf_data(path):
                     splitted_line = el.split(':')
                     recipe_data['ingredients'].append({'name': process_text(splitted_line[0]), 'quantity': process_text(splitted_line[1]) if len(splitted_line) > 1 else ''})
             else:
-                ingredients = False
-                instructions = True        
-        elif instructions:
-            instructions_lines.append(line)
-        recipe_data['instructions'] = process_instructions_text(instructions_lines)
+                break    
+
+    instructions_lines = '\n'.join(extracted_text).split('Instrucciones')[-1]
+    recipe_data['instructions'] = process_instructions_text(instructions_lines)
 
     return recipe_data
 
 
-def process_instructions_text(lines):
-    processed_lines = process_text('\n'.join(lines).replace('\n+', ' ')).split('•')
-    return [el.strip() for el in lines]
+def process_instructions_text(instructions):
+    lines = instructions.split('•')
+    processed_lines = [process_text(el) for el in lines]
+    return [el for el in processed_lines if el]
 
 
 def process_pdf(pdf_path):
@@ -59,7 +59,7 @@ def process_pdf(pdf_path):
 
 
 def process_text(text):
-    return re.sub(' +', ' ', text).strip()
+    return re.sub(' +', ' ', text.replace('\n', ' ')).strip()
 
 
 def read_recipes():
