@@ -94,8 +94,6 @@ def show_readme(readme_path):
 def show_recipes(recipes, pdf_width, input_type):
     recipes = sorted(recipes, key=lambda x: x['recipe'])
     for recipe in recipes:
-        if recipe['recipe'] in st.session_state:
-            del st.session_state[recipe['recipe']]
         with st.expander(recipe['recipe']):
             pdf_viewer(recipe['pdf'], width=pdf_width, key=f"{recipe['recipe']}-{input_type}")
             #show_pdf(recipe['pdf'])
