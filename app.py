@@ -91,11 +91,13 @@ def show_readme(readme_path):
     st.markdown(''.join(readme_buffer))
 
 
-def show_recipes(recipes, pdf_width):
+def show_recipes(recipes, pdf_width, input_type):
     recipes = sorted(recipes, key=lambda x: x['recipe'])
     for recipe in recipes:
+        if recipe['recipe'] in st.session_state:
+            del st.session_state[recipe['recipe']]
         with st.expander(recipe['recipe']):
-            pdf_viewer(recipe['pdf'], width=pdf_width)
+            pdf_viewer(recipe['pdf'], width=pdf_width, key=f"{recipe['recipe']}-{input_type}")
             #show_pdf(recipe['pdf'])
 
 
@@ -108,14 +110,14 @@ def frontend(sorted_recipes, all_recipes, all_ingredients, pdf_width):
 
     with tab2:
         selected_recipe_type = pills("Tipo", sorted(list(sorted_recipes)))
-        show_recipes(sorted_recipes[selected_recipe_type], pdf_width)
+        show_recipes(sorted_recipes[selected_recipe_type], pdf_width, 'list')
     
     with tab3:
         ingredients = st_tags(label='Escribe tus ingredientes', text="Enter para añadir más")
         strict_search = st.toggle('Incluir TODOS los ingredientes')
         matches = words_distance(ingredients, all_ingredients)
         filtered_recipes = filter_recipes(all_recipes, matches, strict_search)
-        show_recipes(filtered_recipes, pdf_width)
+        show_recipes(filtered_recipes, pdf_width, 'search')
 
 
 def main():
@@ -124,8 +126,8 @@ def main():
                        initial_sidebar_state="expanded")
     #if check_password():
     sorted_recipes, all_recipes, all_ingredients = read_recipes_data()
-    screen_width = streamlit_js_eval(js_expressions='screen.width')
-    screen_height = streamlit_js_eval(js_expressions='screen.height')#, key='SCRH'
+    screen_width = streamlit_js_eval(js_expressions='screen.width', key='SCRW')
+    screen_height = streamlit_js_eval(js_expressions='screen.height', key='SCRH')#
     screen_prop =  screen_width / screen_height if (screen_width and screen_height) else 0
     pdf_width = 650 if screen_prop > 1 else 300
     frontend(sorted_recipes, all_recipes, all_ingredients, pdf_width)
