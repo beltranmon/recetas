@@ -1,6 +1,7 @@
 pandas
 pdfplumber
 streamlit
+streamlit_js_eval
 streamlit-pdf-viewer
 streamlit-pills
 streamlit-tags

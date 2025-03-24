@@ -12,15 +12,12 @@ Hay algunas recetas que, aunque se llamen de alguna forma "tradicional" he cambi
 
 * TODO:
 1. Hacer apartado de 'crear receta' (que se pueda subir un pdf + formulario para añadir ingredientes, nombre, ... -> output: json con pdf en base64).
-2. Hacer apartado de 'lista de la compra' a partir de recetas, que recopile los ingredientes y sume cantidades (de la mejor forma posible).
-3. Corrección de los parseos de recetas, que hace que el buscador no funcione correctamente.
-4. Identificar si la ejecución es desde PC o móvil para establecer un valor por defecto del tamaño de los pdfs.
+2. Hacer apartado de 'lista de la compra' a partir de recetas, que recopile los ingredientes.
 
 ---
 
 **Notas**:
 
-* El _slider_ de "Ancho del pdf" sirve para variar su tamaño (dado que se ven como imágenes y no se puede hacer zoom) y poder visualizarse tanto en móvil como en PC.
 * Siempre es mejor leerse las recetas enteras antes de empezar a hacerlas, para optimizar tiempos de cocción o cambiar los pasos según convenga.
 * Las porciones son orientativas, dado que hay casos en los que habría que preparar acompañamientos (un pescado), o que son comidas que normalmente no se comen solas pero que en las porciones considero que si (por ejemplo, unas alitas de pollo). Igual que antes, lo mejor es leer la receta bien antes de prepararla para considerar si hay que acompañar de algo más.
 * Hay ingredientes en los que no pongo cantidades, eso es porque o es al gusto o muy difícil de especificar (por ejemplo, para empanar no voy a poner los gramos de harina o pan rallado). En la sal, pimienta y aceite considero que es al gusto, en general.

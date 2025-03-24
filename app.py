@@ -9,6 +9,8 @@ from streamlit_tags import st_tags
 from recipes_reader import read_recipes_data
 from utils import read_json, words_distance, list_flatten
 
+from streamlit_js_eval import streamlit_js_eval
+
 
 def check_password():
     """
@@ -50,7 +52,7 @@ def filter_recipes(all_recipes, to_search, strict_search):
         word_filter = []
         for recipe in all_recipes:
             recipe_ingredients = [el['name'].lower() for el in recipe['ingredients']]
-            if any(ingredient in recipe_ingredients for ingredient in word_search):
+            if any(ingredient.lower() in recipe_ingredients for ingredient in word_search):
                 word_filter.append(recipe['recipe'])
         filtered.append(word_filter)
     to_return = set.intersection(*[set(x) for x in filtered]) if strict_search else list(set(list_flatten(filtered)))
@@ -97,24 +99,19 @@ def show_recipes(recipes, pdf_width):
             #show_pdf(recipe['pdf'])
 
 
-def frontend(sorted_recipes, all_recipes, all_ingredients):
+def frontend(sorted_recipes, all_recipes, all_ingredients, pdf_width):
     st.header("""Recetas""")
-    pdf_width = st.sidebar.slider('Ancho del pdf', min_value=300, max_value=700, value=650, step=50)
-    # Sidebar Selecbox
-    input_type_dict = {'Readme': 0, 'Recetas': 1, 'Buscador': 2}
-    input_type = st.sidebar.selectbox("Funciones", input_type_dict, index=0)
+    tab1, tab2, tab3 = st.tabs(['Instructivos' , 'Recetas', 'Buscador'])
     # TUTORIALS
-    if input_type_dict[input_type] == 0:
+    with tab1:
         show_readme('README.md')
 
-    if input_type_dict[input_type] == 1:
-        st.subheader(input_type)
-        selected_recipe_type = pills("Tipo", sorted(list(sorted_recipes))) #["🍀", "🎈", "🌈"] 
+    with tab2:
+        selected_recipe_type = pills("Tipo", sorted(list(sorted_recipes)))
         show_recipes(sorted_recipes[selected_recipe_type], pdf_width)
-        
-    if input_type_dict[input_type] == 2:
-        st.subheader(input_type)
-        ingredients = st_tags(label='Escribe tus ingredientes (si el buscador está vacío no habrán resultados)', text="Enter para añadir más")
+    
+    with tab3:
+        ingredients = st_tags(label='Escribe tus ingredientes', text="Enter para añadir más")
         strict_search = st.toggle('Incluir TODOS los ingredientes')
         matches = words_distance(ingredients, all_ingredients)
         filtered_recipes = filter_recipes(all_recipes, matches, strict_search)
@@ -127,7 +124,11 @@ def main():
                        initial_sidebar_state="expanded")
     #if check_password():
     sorted_recipes, all_recipes, all_ingredients = read_recipes_data()
-    frontend(sorted_recipes, all_recipes, all_ingredients)
+    screen_width = streamlit_js_eval(js_expressions='screen.width')
+    screen_height = streamlit_js_eval(js_expressions='screen.height')#, key='SCRH'
+    screen_prop =  screen_width / screen_height if (screen_width and screen_height) else 0
+    pdf_width = 650 if screen_prop > 1 else 300
+    frontend(sorted_recipes, all_recipes, all_ingredients, pdf_width)
 
 
 if __name__ == "__main__":
