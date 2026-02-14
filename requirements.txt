@@ -2,7 +2,7 @@ pandas
 pdfplumber
 streamlit
 streamlit_js_eval
-streamlit-pdf-viewer==0.0.23
+streamlit-pdf-viewer
 streamlit-pills
 streamlit-tags
 tabulate
