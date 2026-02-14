@@ -112,7 +112,7 @@ def frontend(sorted_recipes, all_recipes, all_ingredients, pdf_width):
     
     with tab3:
         ingredients = st_tags(label='Escribe tus ingredientes', text="Enter para añadir más")
-        strict_search = st.toggle('Incluir TODOS los ingredientes')
+        strict_search = st.checkbox('Incluir TODOS los ingredientes')
         matches = words_distance(ingredients, all_ingredients)
         filtered_recipes = filter_recipes(all_recipes, matches, strict_search)
         show_recipes(filtered_recipes, pdf_width, 'search')
